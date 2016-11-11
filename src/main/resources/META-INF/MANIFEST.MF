@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: C:\Users\Dew\IdeaProjects\TriShooter\src\com\game\base\unc
- ategorized
-Main-Class: com.game.base.uncategorized.Main
-
